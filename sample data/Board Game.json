@@ -1,0 +1,33 @@
+[
+    {
+        "BoardGameID": 1,
+        "TypeID": 1,
+        "Name": "One Night Werewolf",
+        "Description": "One Night Ultimate Werewolf is a fast game for 3-10 players in which everyone gets a role: One of the dastardly Werewolves, the tricky Troublemaker, the helpful Seer, or one of a dozen different characters, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!",
+        "Status": true,
+        "Price": 500
+    },
+    {
+        "BoardGameID": 2,
+        "TypeID": 1,
+        "Name": "Date Of Winter",
+        "Description": "Dead of Winter is a meta-cooperative psychological survival game. This means players are working together toward one common victory condition, but for each individual player to achieve victory, they must also complete their personal secret objective, which could relate to a psychological tick that's fairly harmless to most others in the colony, a dangerous obsession that could put the main objective at risk, a desire for sabotage of the main mission, or (worst of all) vengeance against the colony! Games could end with all players winning, some winning and some losing, or all players losing. Work toward the group's goal, but don't get walked all over by a loudmouth who's looking out only for their own interests!",
+        "Status": true,
+        "Price": 500
+    },
+    {
+        "BoardGameID": 1,
+        "TypeID": 2,
+        "Name": "Onitama",
+        "Description": "Onitama is a two-player, perfect information abstract game with a random starting set-up. On a 5x5 board, both players start with five pawns on their side, with the main pawn in the middle.Each player has two open cards that each display a possible move for any of her pieces. There is a fifth card that cannot be used by either player. On a player's turn, she chooses one of her cards, moves one of her pieces according to the chosen card, then replaces the card she used with the fifth card. The other player then chooses one of his cards, moves accordingly, and exchanges that card with this fifth card — which is, of course, the card the first player just used. Moving onto one of the opponent's pawns removes that pawn from the game. Taking the opponent's main pawn, or moving your main pawn into your opponent's main pawn's starting space, wins you the game.",
+        "Status": true,
+        "Price": 300
+    },
+    {
+        "BoardGameID": 1,
+        "TypeID": 3,
+        "Name": "Hey, That’s My Fish!",
+        "Description": "In Hey, That's My Fish!, players want to catch as many fish as possible with their waddle of penguins. Each turn, a player moves one penguin in a straight line over hex-shaped ice tiles with 1, 2 or 3 fish on them. The player then collects the hex from where the penguin started its movement from the table, thereby creating a gap which penguins can't cross on future turns. When a penguin can't move, it's removed from play with its owner claiming the tile on which it stands. The player who collects the most fish wins.",
+        "Price": 500
+    }
+]
