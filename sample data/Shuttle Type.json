@@ -1,0 +1,10 @@
+[
+    {
+        "ShuttleID": 1,
+        "TypeName": "Airport"
+    },
+    {
+        "ShuttleID": 2,
+        "TypeName": "Around Hotel"
+    }
+]

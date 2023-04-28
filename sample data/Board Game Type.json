@@ -1,0 +1,14 @@
+[
+    {
+        "TypeID": 1,
+        "TypeName": "Bluffing"
+    },
+    {
+        "TypeID": 2,
+        "TypeName": "Abstract"
+    },
+    {
+        "TypeID": 3,
+        "TypeName": "Children’s Game"
+    }
+]
