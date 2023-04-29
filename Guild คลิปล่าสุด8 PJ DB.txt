@@ -1,0 +1,48 @@
+สร้าง folder สักอย่าง
+npx create-react-app client
+แก้ client เป็นชื่อไฟล์อะไรก็ได้ที่อยากได้
+https://dev.to/junko911/how-to-create-a-react-node-js-application-m5b
+เอาไปดูสะ!!!!!!!
+
+npm start ใช้สตาร์ท web
+cd ชี้ตำแหน่งไฟล์
+nodemon server .. start server 
+
+
+MONGO DB
+mongodb+srv://jinnawan:jinnawan1234@hotel.f5ftys1.mongodb.net/test
+
+
+API server
+https://bold-shadow-135492.postman.co/workspace/4afd7eb8-04d1-42be-8917-bf0e84206e2d/request/26975195-16893d0c-feb9-4035-ac62-5e7844170286
+
+
+https://www.npmjs.com/package/react-spinners
+Loader(เลือกตัวโหลดจากนี้)
+
+https://getbootstrap.com/docs/4.0/components/alerts/
+Alert(ตื่นตัว เตือน อะไรสักอย่าง)
+
+https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo/related?hl=en
+Autogenarate data to form google
+
+
+
+
+clips 17 updat index.html
+https://getbootstrap.com/docs/4.5/components/dropdowns/  
+//drop down 
+https://www.bootstrapcdn.com/fontawesome/
+//front awesome
+font awesome hamburger
+//bar at navbar(menu)
+https://fontawesome.com/v4/icon/user
+//icon user
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+:hover css สำหรับ ปุ่มแบบแช่แล้วจะทำไรก็แล้วแต่
